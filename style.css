@@ -1,9 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&display=swap');
+
 * {
     margin: 0;
     padding: 0;
 }
 
+h1 {
+    color: red;
+    font-family: "Aguafina Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
 img {
-    width: 100px;
+    width: 300px;
     border-radius: 10px;
+}
+
+p {
+    width: 80%;
 }
