@@ -1,56 +1,45 @@
 function pacotemisto0() {
   document.getElementById("img").src = "./src/1.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto1() {
   document.getElementById("img").src = "./src/2.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto2() {
   document.getElementById("img").src = "./src/3.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto3() {
   document.getElementById("img").src = "./src/4.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto4() {
   document.getElementById("img").src = "./src/5.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto5() {
   document.getElementById("img").src = "./src/6.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto6() {
   document.getElementById("img").src = "./src/7.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto7() {
   document.getElementById("img").src = "./src/8.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto8() {
   document.getElementById("img").src = "./src/9.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto9() {
   document.getElementById("img").src = "./src/10.png";
-  console.log("Funcionando");
 }
 
 function pacotemisto10() {
   document.getElementById("img").src = "./src/11.png";
-  console.log("Funcionando");
 }
 
 setTimeout(pacotemisto1, 2000);
@@ -96,3 +85,27 @@ setTimeout(pacotemisto8, 56000);
 setTimeout(pacotemisto9, 59000);
 
 setTimeout(pacotemisto10, 62000);
+
+// Segunda repetição
+
+setTimeout(pacotemisto0, 65000);
+
+setTimeout(pacotemisto1, 68000);
+
+setTimeout(pacotemisto2, 71000);
+
+setTimeout(pacotemisto3, 74000);
+
+setTimeout(pacotemisto4, 77000);
+
+setTimeout(pacotemisto5, 80000);
+
+setTimeout(pacotemisto6, 83000);
+
+setTimeout(pacotemisto7, 86000);
+
+setTimeout(pacotemisto8, 89000);
+
+setTimeout(pacotemisto9, 92000);
+
+setTimeout(pacotemisto10, 95000);
